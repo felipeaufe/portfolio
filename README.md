@@ -1,26 +1,26 @@
 # Portfolio
 
-Projetos online
+### Projetos online
 
-Samba Maníacos (VueJS): 
+[Samba Maníacos](https://sambamaniacos.com.br/) (VueJS): 
 https://sambamaniacos.com.br/ 
 
-Rick and Larissa (VueJs):
+[Rick and Larissa](https://rickelarissa.com.br/) (VueJs):
 https://rickelarissa.com.br/
 
-Hotel Fazenda Massaranduba (VueJS):
+Hotel Fazenda Massaranduba(https://www.hotelfazendamassaranduba.tur.br/) (VueJS):
 https://www.hotelfazendamassaranduba.tur.br/
 
-Blog Ocean Drop (Wordpress):
+[Blog Ocean Drop](https://my.oceandrop.com.br/) (Wordpress):
 https://my.oceandrop.com.br/
 
-Projetos offline
+### Projetos offline
 
 Pousada Gaúcha (VueJS):
 http://pousadagaucha.com.br/
 
-Ocean Drop (v.3 - old):
+[Ocean Drop](https://oceandrophomolog2.plataforma.flexy.com.br/) (Twig | v.3 - old):
 https://oceandrophomolog2.plataforma.flexy.com.br/
 
-Quiz Ocean Drop:
+[Quiz Ocean Drop](https://oceandrophomolog2.plataforma.flexy.com.br/personalize) (Twig):
 https://oceandrophomolog2.plataforma.flexy.com.br/personalize
